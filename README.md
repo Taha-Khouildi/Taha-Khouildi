@@ -24,7 +24,7 @@
 ## About Me
 
 ```yaml
-name: YOUR_NAME
+name: Taha Khouildi
 education: Entering 4A at ESPRIT
 current_context: Internship at Target Tunisia
 currently_studying: Frappe HRMS architecture
