@@ -1,501 +1,226 @@
-<!--
-=========================================================
- GitHub Profile README
- Replace every YOUR_* or [PLACEHOLDER] before publishing.
- Most importantly:
- - Never add a technology just because you plan to learn it.
- - Move technologies from "Learning" to "Current Foundation"
-   only after you have actually used them.
-=========================================================
--->
-
 <div align="center">
 
 <img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,55:0B3B4A,100:0891B2&height=210&section=header&text=YOUR%20NAME&fontSize=44&fontColor=E6F7FF&animation=fadeIn&fontAlignY=38&desc=4A%20ESPRIT%20Student%20%7C%20Cloud%20%26%20Cybersecurity%20Learning%20Path&descAlignY=58&descSize=17&descColor=B8E7F2"
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0e7490,100:2563eb&text=YOUR%20NAME&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=4A%20Student%20at%20ESPRIT%20%7C%20Cybersecurity%20%26%20Cloud&descAlignY=57&descSize=17&animation=fadeIn"
-/>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Understanding+applications+before+securing+them;Currently+studying+Frappe+HRMS+architecture;Strengthening+Linux+%26+networking+foundations;Learning+toward+Cloud+Security+%26+DevSecOps"
-    alt="Typing SVG"
-  />
-</a>
-
-<br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0e75b6&label=PROFILE+VIEWS"
-  alt="Profile views"
+  alt="Header introducing YOUR_NAME as a 4A ESPRIT student"
 />
 
 <img
-  src="https://img.shields.io/badge/GitHub-Student%20Developer%20Pack-181717?style=flat-square&logo=github&logoColor=white"
-  alt="GitHub Student Developer Pack"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1100&color=23D3EE&center=true&vCenter=true&width=780&lines=Understanding+applications+before+securing+them;Studying+Frappe+HRMS+architecture+at+Target+Tunisia;Building+Linux+and+networking+foundations;Progressing+step+by+step+toward+cloud+security"
+  alt="Animated introduction describing my current learning focus"
 />
+
+<br />
+
+![ESPRIT student](https://img.shields.io/badge/ESPRIT-Entering%204A-23D3EE?style=for-the-badge&labelColor=071A2B)
+![Target Tunisia internship](https://img.shields.io/badge/Target%20Tunisia-Internship-2DD4BF?style=for-the-badge&labelColor=071A2B)
+![GitHub Student Pack](https://img.shields.io/badge/GitHub-Student%20Developer%20Pack-B8E7F2?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2B)
 
 </div>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0e7490,100:2563eb&height=2"
-  width="100%"
-/>
+---
 
-## 👋 About Me
+## About Me
 
 ```yaml
-name: "Taha Khouildi"
-
-education:
-  institution: "ESPRIT"
-  level: "Entering 4A"
-  focus:
-    - "Cybersecurity"
-    - "Cloud"
-
-current_internship:
-  organization: "Target Tunisia"
-  focus: "Studying Frappe HRMS architecture"
-
-current_foundations:
-  - "Basic Ubuntu / Linux"
-  - "Networking fundamentals"
-  - "Academic development experience"
-
-learning_level:
-  cloud: "Beginner"
-  devops: "Beginner"
-  security: "Beginner"
-
-learning_rhythm: "~4 hours/day"
-
-long_term_direction:
-  - "Cloud Security"
-  - "DevSecOps"
-
-cloud_platform:
-  decision: "Not chosen yet"
-  reason: "Waiting to better understand Target Tunisia's technology stack"
+name: YOUR_NAME
+education: Entering 4A at ESPRIT
+current_context: Internship at Target Tunisia
+currently_studying: Frappe HRMS architecture
+learning_commitment: Approximately 4 hours per day
+direction: Application understanding → Cloud Security and DevSecOps
+cloud_platform: AWS or Azure — decision intentionally pending
 ```
 
-> I use this GitHub profile to document what I **actually learn and build**.  
-> The goal is steady technical depth — not collecting titles or pretending to know tools I have not used yet.
+I am strengthening my technical foundations before specializing. My current priority is to understand how applications work, then deepen my Linux and networking knowledge before moving further into cloud, DevOps, and security.
+
+The sections below deliberately separate what I currently know, what I am learning, and what I plan to explore next.
+
+> **Academic note:** My current 4A internship and my future 5A PFE are separate academic experiences. They may build on related lessons, but they are not presented as one continuous project.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Application Understanding
-
-My current internship focus is **Frappe HRMS architecture** at **Target Tunisia**.
-
-The objective is to understand how a real application is structured before moving deeper into infrastructure and security.
-
-Topics I want to understand better include:
-
-- application architecture
-- modules and responsibilities
-- data flows
-- authentication and permissions
-- application ↔ infrastructure interaction
-
-</td>
-<td width="50%" valign="top">
-
-### 🐧 Systems Foundations
-
-I am strengthening the fundamentals that everything else will depend on:
-
-- Ubuntu / Linux
-- command-line confidence
-- files and permissions
-- processes and services
-- TCP/IP fundamentals
-- DNS
-- HTTP/HTTPS
-- SSH
-- basic network troubleshooting
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 · Understand</h3>
+      <p>Study Frappe HRMS architecture, application structure, data flow, and the relationships between major components.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 · Strengthen</h3>
+      <p>Practice Linux fundamentals and improve my understanding of systems, permissions, processes, and networking.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 · Document</h3>
+      <p>Turn lessons into notes, small labs, and reproducible projects that show genuine progress over time.</p>
+    </td>
+  </tr>
 </table>
+
+I am keeping the AWS-versus-Azure decision open until I better understand the technology stack and practical needs at Target Tunisia.
+
+---
+
+## Learning Roadmap
+
+<div align="center">
+
+`Application Understanding` → `Linux & Networking` → `Cloud & DevOps` → `Security` → `Cloud Security & DevSecOps`
+
+</div>
+
+| Stage | Focus | Current position |
+|:--:|---|:--:|
+| 01 | Application architecture and behavior | 🟢 Active |
+| 02 | Linux and networking foundations | 🟢 Active |
+| 03 | Cloud and DevOps fundamentals | 🟡 Exploring |
+| 04 | Security fundamentals and secure practices | 🟡 Exploring |
+| 05 | Cloud Security and DevSecOps | 🔵 Long-term direction |
+
+> The roadmap represents learning priority—not completed expertise.
+
+---
+
+## Technologies & Knowledge
+
+### Current foundations
+
+![Ubuntu basic knowledge](https://img.shields.io/badge/Ubuntu-Basic%20Knowledge-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux foundations](https://img.shields.io/badge/Linux-Foundations-FCC624?style=flat-square&logo=linux&logoColor=111827)
+![Networking fundamentals](https://img.shields.io/badge/Networking-Fundamentals-0891B2?style=flat-square)
+![Academic development experience](https://img.shields.io/badge/Development-Academic%20Experience-0E7490?style=flat-square)
+![GitHub Student Pack](https://img.shields.io/badge/GitHub-Student%20Pack-181717?style=flat-square&logo=github&logoColor=white)
+
+<!-- Add only languages and tools you have genuinely used:
+![LANGUAGE_OR_TOOL](BADGE_URL)
+-->
+
+### Currently learning
+
+![Frappe HRMS architecture](https://img.shields.io/badge/Frappe%20HRMS-Architecture%20Study-0089FF?style=flat-square)
+![Cloud fundamentals](https://img.shields.io/badge/Cloud-Fundamentals-0284C7?style=flat-square)
+![DevOps fundamentals](https://img.shields.io/badge/DevOps-Fundamentals-0F766E?style=flat-square)
+![Security fundamentals](https://img.shields.io/badge/Cybersecurity-Fundamentals-0D9488?style=flat-square)
+
+### Planned next
+
+![Docker not started](https://img.shields.io/badge/Docker-Not%20Started%20Yet-64748B?style=flat-square&logo=docker&logoColor=white)
+![Cloud provider decision pending](https://img.shields.io/badge/AWS%20or%20Azure-Decision%20Pending-64748B?style=flat-square)
+![Cloud Security direction](https://img.shields.io/badge/Cloud%20Security-Long--Term%20Direction-475569?style=flat-square)
+![DevSecOps direction](https://img.shields.io/badge/DevSecOps-Long--Term%20Direction-475569?style=flat-square)
+
+---
+
+## Projects & Learning Labs
+
+These spaces are reserved for real, documented work. Each entry should describe what was actually built, practiced, or learned.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & DevOps
-
-Currently building the conceptual foundation for:
-
-- cloud computing
-- virtualization
-- infrastructure
-- CI/CD
-- environments and deployments
-- containers
-
-**Docker is next on the roadmap — I do not have hands-on Docker experience yet.**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Security
-
-My security learning will build on the systems underneath it:
-
-- Linux security
-- networking security
-- application security fundamentals
-- IAM concepts
-- secure configuration
-- threat awareness
-- cloud security fundamentals
-
-The longer-term direction is **Cloud Security / DevSecOps**.
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>PROJECT_1_NAME</h3>
+      <p><strong>Theme:</strong> Application Understanding</p>
+      <p><strong>Status:</strong> PROJECT_1_STATUS</p>
+      <p>PROJECT_1_DESCRIPTION</p>
+      <p><strong>Stack:</strong> PROJECT_1_STACK</p>
+      <a href="PROJECT_1_URL">View repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>PROJECT_2_NAME</h3>
+      <p><strong>Theme:</strong> Linux & Networking</p>
+      <p><strong>Status:</strong> PROJECT_2_STATUS</p>
+      <p>PROJECT_2_DESCRIPTION</p>
+      <p><strong>Stack:</strong> PROJECT_2_STACK</p>
+      <a href="PROJECT_2_URL">View repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>PROJECT_3_NAME</h3>
+      <p><strong>Theme:</strong> Cloud or Security Learning</p>
+      <p><strong>Status:</strong> PROJECT_3_STATUS</p>
+      <p>PROJECT_3_DESCRIPTION</p>
+      <p><strong>Stack:</strong> PROJECT_3_STACK</p>
+      <a href="PROJECT_3_URL">View repository →</a>
+    </td>
+  </tr>
 </table>
 
----
-
-## 🗺️ Learning Roadmap
-
-<div align="center">
-
-### `APPLICATIONS` → `LINUX + NETWORKING` → `CLOUD + DEVOPS` → `SECURITY` → `CLOUD SECURITY / DEVSECOPS`
-
-</div>
-
-### 01 — Application Understanding 🟢 Current
-
-```text
-Frappe HRMS
-    │
-    ├── Application architecture
-    ├── Components & modules
-    ├── Data flow
-    ├── Authentication / permissions
-    └── Application ↔ infrastructure relationships
-```
-
-### 02 — Linux & Networking 🟢 Strengthening
-
-```text
-Linux
- ├── CLI
- ├── filesystem
- ├── permissions
- ├── processes
- └── services
-
-Networking
- ├── TCP/IP
- ├── DNS
- ├── HTTP / HTTPS
- ├── SSH
- └── troubleshooting
-```
-
-### 03 — Cloud & DevOps 🟡 Building Foundations
-
-```text
-Cloud fundamentals
-        ↓
-Infrastructure concepts
-        ↓
-Git / collaboration workflows
-        ↓
-CI/CD fundamentals
-        ↓
-Docker fundamentals
-        ↓
-Cloud platform specialization
-```
-
-> ☁️ **AWS vs Azure:** intentionally undecided.  
-> I plan to make that decision after understanding the technology stack and practical needs around my internship environment.
-
-### 04 — Security 🟡 Next Layer
-
-```text
-Application Security
-Linux Security
-Network Security
-IAM
-Secrets
-Secure Configuration
-Security Monitoring
-```
-
-### 05 — Cloud Security / DevSecOps 🔵 Long-Term Direction
-
-```text
-Cloud IAM
-Infrastructure Security
-CI/CD Security
-Container Security
-Secrets Management
-Infrastructure as Code Security
-Monitoring & Detection
-DevSecOps Practices
-```
+> Replace these slots only when you have real repositories to show. Work in progress is welcome—label it honestly.
 
 ---
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0e7490&height=2"
-  width="100%"
-/>
-
-## 🛠️ Technologies & Tools
-
-### ✅ Current Foundation
-
-<!-- Keep this section conservative. Add only technologies you have genuinely used. -->
-
-<p>
-
-<img src="https://img.shields.io/badge/Ubuntu-Basic-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Networking-Fundamentals-2563EB?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Development-Academic%20Experience-475569?style=for-the-badge" />
-
-</p>
-
-### 💻 Academic Development
-
-<!--
-Replace these placeholders ONLY with languages/frameworks you have really used
-in university or personal projects.
--->
-
-`[ACADEMIC LANGUAGE 1]`
-`[ACADEMIC LANGUAGE 2]`
-`[FRAMEWORK YOU ACTUALLY USED]`
-`[DATABASE YOU ACTUALLY USED]`
-
-### 📚 Currently Learning / Exploring
-
-<p>
-
-<img src="https://img.shields.io/badge/Frappe%20HRMS-Architecture-0089FF?style=for-the-badge&logo=frappe&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Cloud-Fundamentals-0284C7?style=for-the-badge&logo=icloud&logoColor=white" />
-
-<img src="https://img.shields.io/badge/DevOps-Fundamentals-7C3AED?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Security-Fundamentals-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" />
-
-</p>
-
-### ⏭️ Next Up
-
-<p>
-
-<img src="https://img.shields.io/badge/Docker-Next%20to%20Learn-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</p>
-
-> Technologies move into **Current Foundation** only after I have actually worked with them.
-
----
-
-## 🧪 Projects
-
-<!--
-IMPORTANT:
-Do not invent projects here.
-
-Use this section for REAL:
-- academic projects
-- personal labs
-- internship-related public work, if permitted
-- networking/Linux/cloud/security learning projects
-
-Delete unused project slots.
--->
-
-### 🔹 [PROJECT NAME]
-
-> [ONE-SENTENCE DESCRIPTION OF WHAT THE PROJECT ACTUALLY DOES]
-
-**What I practiced**
-
-- [REAL THING YOU LEARNED]
-- [REAL THING YOU IMPLEMENTED]
-- [REAL TECHNICAL CHALLENGE]
-
-**Technologies:** `[TECH 1]` · `[TECH 2]` · `[TECH 3]`
-
-**Repository:** [View project →]([PROJECT REPOSITORY LINK])
-
----
-
-### 🔹 [PROJECT NAME]
-
-> [ONE-SENTENCE DESCRIPTION OF WHAT THE PROJECT ACTUALLY DOES]
-
-**What I practiced**
-
-- [REAL THING YOU LEARNED]
-- [REAL THING YOU IMPLEMENTED]
-- [REAL TECHNICAL CHALLENGE]
-
-**Technologies:** `[TECH 1]` · `[TECH 2]` · `[TECH 3]`
-
-**Repository:** [View project →]([PROJECT REPOSITORY LINK])
-
----
-
-### 🔹 [PROJECT NAME]
-
-> [ONE-SENTENCE DESCRIPTION OF WHAT THE PROJECT ACTUALLY DOES]
-
-**What I practiced**
-
-- [REAL THING YOU LEARNED]
-- [REAL THING YOU IMPLEMENTED]
-- [REAL TECHNICAL CHALLENGE]
-
-**Technologies:** `[TECH 1]` · `[TECH 2]` · `[TECH 3]`
-
-**Repository:** [View project →]([PROJECT REPOSITORY LINK])
-
----
-
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=8B949E&rank_icon=github"
-  alt="GitHub stats"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=071A2B&title_color=23D3EE&icon_color=2DD4BF&text_color=B8E7F2&ring_color=23D3EE"
+  width="54%"
+  alt="GitHub statistics for YOUR_GITHUB_USERNAME"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=8B949E"
-  alt="Top languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&hide_border=true&bg_color=071A2B&title_color=23D3EE&text_color=B8E7F2"
+  width="41%"
+  alt="Most used languages in the public repositories of YOUR_GITHUB_USERNAME"
 />
 
-<br/><br/>
+<br />
 
 <img
-  width="70%"
-  src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8&sideLabels=8B949E&dates=8B949E"
-  alt="GitHub streak"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=071A2B&color=B8E7F2&line=23D3EE&point=FFFFFF&area=true&area_color=0E7490&hide_border=true"
+  width="96%"
+  alt="Recent public GitHub contribution activity for YOUR_GITHUB_USERNAME"
 />
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=38BDF8&line=2563EB&point=38BDF8&area=true&hide_border=true"
-  alt="GitHub contribution graph"
-/>
-
-</div>
-
-> GitHub statistics are here for activity context — the projects and what I learned from them matter more than the numbers.
+<sub>Language statistics are generated from public repository code and do not represent proficiency.</sub>
 
 ---
 
-## 🎓 Academic Path
-
-```text
-4A @ ESPRIT
-│
-├── Cybersecurity & Cloud focus
-│
-├── 4A Internship
-│   └── Target Tunisia
-│       └── Frappe HRMS architecture study
-│
-└── Continued technical development
-    │
-    └── Future 5A PFE
-```
-
-**Academic note:** my **4A internship** and future **5A PFE** are separate academic experiences.
-
-They may strategically build on knowledge gained over time, but they are not being presented as one continuous project.
-
----
-
-## 🎒 Student Resources
-
-I have access to the **GitHub Student Developer Pack**, which I can use to support learning, labs, experimentation, and student projects.
+## Let's Connect
 
 <div align="center">
 
-<a href="https://education.github.com/pack">
+<a href="YOUR_LINKEDIN_URL">
   <img
-    src="https://img.shields.io/badge/GitHub-Student%20Developer%20Pack-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub Student Developer Pack"
+    src="https://img.shields.io/badge/LinkedIn-Connect-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect with me on LinkedIn"
   />
 </a>
-
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="[YOUR LINKEDIN]">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
 <a href="mailto:YOUR_EMAIL">
   <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
+    src="https://img.shields.io/badge/Email-Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send me an email"
   />
 </a>
-
-<a href="[YOUR PORTFOLIO]">
+<a href="YOUR_PORTFOLIO_URL">
   <img
-    src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
+    src="https://img.shields.io/badge/Portfolio-Visit-071A2B?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Visit my portfolio"
   />
 </a>
 
-</div>
+<!-- Optional CV badge: uncomment after publishing your CV.
+<a href="YOUR_CV_URL">
+  <img
+    src="https://img.shields.io/badge/CV-View-334155?style=for-the-badge"
+    alt="View my CV"
+  />
+</a>
+-->
 
-<br/>
+<br /><br />
 
-<div align="center">
-
-**Learning systems from the inside out — applications → infrastructure → security.**
-
-<br/>
-
-<sub>
-4A @ ESPRIT · Cybersecurity & Cloud · Tunisia
-</sub>
-
-</div>
+<sub>Learning carefully, building honestly, and documenting the journey.</sub>
 
 <img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,55:0B3B4A,100:0891B2&height=100&section=footer"
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:0e7490,100:2563eb"
+  alt="Midnight cyan decorative footer"
 />
+
+</div>
