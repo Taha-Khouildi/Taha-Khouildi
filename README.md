@@ -1,9 +1,9 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,55:0B3B4A,100:0891B2&height=210&section=header&text=YOUR%20NAME&fontSize=44&fontColor=E6F7FF&animation=fadeIn&fontAlignY=38&desc=4A%20ESPRIT%20Student%20%7C%20Cloud%20%26%20Cybersecurity%20Learning%20Path&descAlignY=58&descSize=17&descColor=B8E7F2"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,55:0B3B4A,100:0891B2&height=210&section=header&text=Taha%20Khouildi&fontSize=44&fontColor=E6F7FF&animation=fadeIn&fontAlignY=38&desc=4A%20ESPRIT%20Student%20%7C%20Cloud%20and%20Cybersecurity%20Learning%20Path&descAlignY=58&descSize=17&descColor=B8E7F2"
   width="100%"
-  alt="Header introducing YOUR_NAME as a 4A ESPRIT student"
+  alt="Taha Khouildi — 4A ESPRIT student"
 />
 
 <img
