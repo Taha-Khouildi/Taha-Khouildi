@@ -149,29 +149,11 @@ These spaces are reserved for real, documented work. Each entry should describe 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=071A2B&title_color=23D3EE&icon_color=2DD4BF&text_color=B8E7F2&ring_color=23D3EE"
-  width="54%"
-  alt="GitHub statistics for YOUR_GITHUB_USERNAME"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&hide_border=true&bg_color=071A2B&title_color=23D3EE&text_color=B8E7F2"
-  width="41%"
-  alt="Most used languages in the public repositories of YOUR_GITHUB_USERNAME"
-/>
-
-<br />
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=071A2B&color=B8E7F2&line=23D3EE&point=FFFFFF&area=true&area_color=0E7490&hide_border=true"
-  width="96%"
-  alt="Recent public GitHub contribution activity for YOUR_GITHUB_USERNAME"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taha-Khouildi&theme=github_dark&title_color=23D3EE&text_color=B8E7F2&bg_color=071A2B&border_color=071A2B&icon_color=8B5CF6&chart_color=23D3EE" width="42%" alt="GitHub statistics for Taha-Khouildi" /> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Taha-Khouildi&layout=compact&langs_count=6&hide_border=true&bg_color=071A2B&title_color=23D3EE&text_color=B8E7F2&card_width=340" width="42%" alt="Most used languages in the public repositories of Taha-Khouildi, including percentages" />
 
 </div>
 
@@ -201,15 +183,6 @@ These spaces are reserved for real, documented work. Each entry should describe 
     alt="Visit my portfolio"
   />
 </a>
-
-<!-- Optional CV badge: uncomment after publishing your CV.
-<a href="YOUR_CV_URL">
-  <img
-    src="https://img.shields.io/badge/CV-View-334155?style=for-the-badge"
-    alt="View my CV"
-  />
-</a>
--->
 
 <br /><br />
 
