@@ -20,7 +20,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
 ## About Me
 
@@ -28,19 +28,16 @@
 name: Taha Khouildi
 education: Entering 4A at ESPRIT
 current_context: Internship at Target Tunisia
-currently_studying: Frappe HRMS architecture
-learning_commitment: Approximately 4 hours per day
 direction: Application understanding → Cloud Security and DevSecOps
-cloud_platform: AWS or Azure — decision intentionally pending
 ```
+![My Skills](https://skillicons.dev/icons?i=php,js,python,java,cpp,html,css,bootstrap,tailwind,symfony,mysql,git,github,vscode,maven,npm)
 
 I am strengthening my technical foundations before specializing. My current priority is to understand how applications work, then deepen my Linux and networking knowledge before moving further into cloud, DevOps, and security.
 
 The sections below deliberately separate what I currently know, what I am learning, and what I plan to explore next.
 
-> **Academic note:** My current 4A internship and my future 5A PFE are separate academic experiences. They may build on related lessons, but they are not presented as one continuous project.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
 ## Current Focus
 
@@ -63,7 +60,7 @@ The sections below deliberately separate what I currently know, what I am learni
 
 I am keeping the AWS-versus-Azure decision open until I better understand the technology stack and practical needs at Target Tunisia.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
 ## Learning Roadmap
 
@@ -83,7 +80,7 @@ I am keeping the AWS-versus-Azure decision open until I better understand the te
 
 > The roadmap represents learning priority—not completed expertise.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
 ## Technologies & Knowledge
 
@@ -113,7 +110,7 @@ I am keeping the AWS-versus-Azure decision open until I better understand the te
 ![Cloud Security direction](https://img.shields.io/badge/Cloud%20Security-Long--Term%20Direction-475569?style=flat-square)
 ![DevSecOps direction](https://img.shields.io/badge/DevSecOps-Long--Term%20Direction-475569?style=flat-square)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
 ## Projects & Learning Labs
 
@@ -150,7 +147,7 @@ These spaces are reserved for real, documented work. Each entry should describe 
 
 > Replace these slots only when you have real repositories to show. Work in progress is welcome—label it honestly.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
 ## GitHub Activity
 
@@ -180,7 +177,7 @@ These spaces are reserved for real, documented work. Each entry should describe 
 
 <sub>Language statistics are generated from public repository code and do not represent proficiency.</sub>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
 ## Let's Connect
 
