@@ -183,19 +183,19 @@ These spaces are reserved for real, documented work. Each entry should describe 
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/taha-khouildi-it/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Connect-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="Connect with me on LinkedIn"
   />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:taha@tahakhouildi.me">
   <img
     src="https://img.shields.io/badge/Email-Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Send me an email"
   />
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://tahakhouildi.me/">
   <img
     src="https://img.shields.io/badge/Portfolio-Visit-071A2B?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Visit my portfolio"
