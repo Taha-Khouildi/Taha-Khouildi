@@ -16,7 +16,7 @@
 ![ESPRIT student](https://img.shields.io/badge/ESPRIT-Entering%204A-23D3EE?style=for-the-badge&labelColor=071A2B)
 ![Target Tunisia internship](https://img.shields.io/badge/Target%20Tunisia-Internship-2DD4BF?style=for-the-badge&labelColor=071A2B)
 ![GitHub Student Pack](https://img.shields.io/badge/GitHub-Student%20Developer%20Pack-B8E7F2?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2B)
-![Profile Views](https://komarev.com/ghpvc/?username=Taha-Khouildi&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Taha-Khouildi&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
 
 </div>
 
