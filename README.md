@@ -44,7 +44,7 @@ The sections below deliberately separate what I currently know, what I am learni
 
 <div align="center">
 
-<sub>● 1/3 — more featured projects coming next ●</sub>
+<sub>● 1/3 — scroll down for the next project ●</sub>
 
 <br /><br />
 
@@ -83,7 +83,54 @@ The sections below deliberately separate what I currently know, what I am learni
 
 </div>
 
-<!-- FEATURED_PROJECT_2 -->
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:23D3EE&height=2" width="100%" alt="Project divider" />
+
+<br />
+
+<div align="center">
+
+<sub>● 2/3 — scroll down for the next project ●</sub>
+
+<br /><br />
+
+<a href="https://github.com/Taha-Khouildi/GNS3_pi_3A">
+  <img
+    src="https://raw.githubusercontent.com/Taha-Khouildi/GNS3_pi_3A/main/docs/backbone-topology.png"
+    width="88%"
+    alt="TechSolutions enterprise network backbone topology in GNS3"
+  />
+</a>
+
+<h3>TechSolutions — Enterprise Network Infrastructure</h3>
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/Taha-Khouildi/GNS3_pi_3A?style=flat-square&amp;label=updated&amp;color=23D3EE&amp;labelColor=071A2B" alt="Last repository update" />
+  <img src="https://img.shields.io/github/stars/Taha-Khouildi/GNS3_pi_3A?style=flat-square&amp;label=stars&amp;color=FACC15&amp;labelColor=071A2B" alt="Repository stars" />
+  <img src="https://img.shields.io/github/repo-size/Taha-Khouildi/GNS3_pi_3A?style=flat-square&amp;label=repo%20size&amp;color=8B5CF6&amp;labelColor=071A2B" alt="Repository size" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GNS3-071A2B?style=flat-square&amp;logo=gns3&amp;logoColor=2DD4BF" alt="GNS3" />
+  <img src="https://img.shields.io/badge/Cisco%20IOS-071A2B?style=flat-square&amp;logo=cisco&amp;logoColor=1BA0D7" alt="Cisco IOS" />
+  <img src="https://img.shields.io/badge/OSPF-071A2B?style=flat-square" alt="OSPF" />
+  <img src="https://img.shields.io/badge/VLSM-071A2B?style=flat-square" alt="VLSM" />
+  <img src="https://img.shields.io/badge/NAT-071A2B?style=flat-square" alt="NAT" />
+  <img src="https://img.shields.io/badge/IPsec%20%2F%20ISAKMP-071A2B?style=flat-square&amp;logo=wireguard&amp;logoColor=8B5CF6" alt="IPsec and ISAKMP" />
+  <img src="https://img.shields.io/badge/pfSense-071A2B?style=flat-square&amp;logo=pfsense&amp;logoColor=212121" alt="pfSense" />
+</p>
+
+<p>
+  Archived academic team project simulating a secured, four-department enterprise network in GNS3.
+  I designed and built the routing backbone: VLSM addressing, an OSPF area 0 mesh, edge NAT overload,
+  internet connectivity, and an IPsec/ISAKMP site-to-site VPN between the backbone routers.
+</p>
+
+<a href="https://github.com/Taha-Khouildi/GNS3_pi_3A"><strong>→ View Repository</strong></a>
+
+</div>
+
 <!-- FEATURED_PROJECT_3 -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
