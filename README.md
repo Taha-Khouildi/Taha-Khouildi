@@ -42,38 +42,49 @@ The sections below deliberately separate what I currently know, what I am learni
 
 ## Featured Projects
 
-These spaces are reserved for real, documented work. Each entry should describe what was actually built, practiced, or learned.
+<div align="center">
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>PROJECT_1_NAME</h3>
-      <p><strong>Theme:</strong> Application Understanding</p>
-      <p><strong>Status:</strong> PROJECT_1_STATUS</p>
-      <p>PROJECT_1_DESCRIPTION</p>
-      <p><strong>Stack:</strong> PROJECT_1_STACK</p>
-      <a href="PROJECT_1_URL">View repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>PROJECT_2_NAME</h3>
-      <p><strong>Theme:</strong> Linux & Networking</p>
-      <p><strong>Status:</strong> PROJECT_2_STATUS</p>
-      <p>PROJECT_2_DESCRIPTION</p>
-      <p><strong>Stack:</strong> PROJECT_2_STACK</p>
-      <a href="PROJECT_2_URL">View repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>PROJECT_3_NAME</h3>
-      <p><strong>Theme:</strong> Cloud or Security Learning</p>
-      <p><strong>Status:</strong> PROJECT_3_STATUS</p>
-      <p>PROJECT_3_DESCRIPTION</p>
-      <p><strong>Stack:</strong> PROJECT_3_STACK</p>
-      <a href="PROJECT_3_URL">View repository →</a>
-    </td>
-  </tr>
-</table>
+<sub>● 1/3 — more featured projects coming next ●</sub>
 
-> Replace these slots only when you have real repositories to show. Work in progress is welcome—label it honestly.
+<br /><br />
+
+<a href="https://github.com/Taha-Khouildi/Esprit-PIDEV-3A16-Cofounded-web">
+  <img
+    src="https://github.com/user-attachments/assets/41466635-3992-4b85-a6fa-a9e8dd620885"
+    width="78%"
+    alt="Cofounded startup and investor matchmaking platform"
+  />
+</a>
+
+<h3>Cofounded — Startup &amp; Investor Matchmaking Platform</h3>
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/Taha-Khouildi/Esprit-PIDEV-3A16-Cofounded-web?style=flat-square&amp;label=updated&amp;color=23D3EE&amp;labelColor=071A2B" alt="Last repository update" />
+  <img src="https://img.shields.io/github/stars/Taha-Khouildi/Esprit-PIDEV-3A16-Cofounded-web?style=flat-square&amp;label=stars&amp;color=FACC15&amp;labelColor=071A2B" alt="Repository stars" />
+  <img src="https://img.shields.io/github/repo-size/Taha-Khouildi/Esprit-PIDEV-3A16-Cofounded-web?style=flat-square&amp;label=repo%20size&amp;color=8B5CF6&amp;labelColor=071A2B" alt="Repository size" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PHP%208.1+-071A2B?style=flat-square&amp;logo=php&amp;logoColor=777BB4" alt="PHP 8.1+" />
+  <img src="https://img.shields.io/badge/Symfony%206.4-071A2B?style=flat-square&amp;logo=symfony&amp;logoColor=white" alt="Symfony 6.4" />
+  <img src="https://img.shields.io/badge/Twig-071A2B?style=flat-square&amp;logo=twig&amp;logoColor=7BAA2F" alt="Twig" />
+  <img src="https://img.shields.io/badge/MySQL-071A2B?style=flat-square&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Doctrine%20ORM-071A2B?style=flat-square&amp;logo=doctrine&amp;logoColor=FC6A31" alt="Doctrine ORM" />
+  <img src="https://img.shields.io/badge/Stimulus-071A2B?style=flat-square&amp;logo=stimulus&amp;logoColor=77E8B9" alt="Stimulus" />
+</p>
+
+<p>
+  Academic team project connecting entrepreneurs, investors, and professionals through startup pitches,
+  funding opportunities, events, and a community feed. I developed the startup management module,
+  including founder workflows, discovery, favorites, recommendations, analytics, and admin moderation.
+</p>
+
+<a href="https://github.com/Taha-Khouildi/Esprit-PIDEV-3A16-Cofounded-web"><strong>→ View Repository</strong></a>
+
+</div>
+
+<!-- FEATURED_PROJECT_2 -->
+<!-- FEATURED_PROJECT_3 -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
