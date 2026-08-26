@@ -26,9 +26,10 @@
 
 ```yaml
 name: Taha Khouildi
-education: Entering 4A at ESPRIT
-current_context: Internship at Target Tunisia
-direction: Application understanding → Cloud Security and DevSecOps
+role: 4th Year Computer Science Engineering Student @ ESPRIT
+focus: Cybersecurity · Cloud Fundamentals · Linux & Networking · DevOps
+recently: Internship @ Target Tunisia — studying Frappe HRMS architecture
+fun_fact: I like understanding how systems work before figuring out how to secure them
 ```
 ![My Skills](https://skillicons.dev/icons?i=php,c,cpp,js,python,java,html,css,tailwind,symfony,mysql,git,github,vscode,linux)
 
