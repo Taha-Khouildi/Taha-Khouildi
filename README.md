@@ -30,7 +30,7 @@ education: Entering 4A at ESPRIT
 current_context: Internship at Target Tunisia
 direction: Application understanding → Cloud Security and DevSecOps
 ```
-![My Skills](https://skillicons.dev/icons?i=php,c,c++,js,python,java,cpp,html,css,tailwind,symfony,mysql,git,github,vscode,maven,linux,cisco)
+![My Skills](https://skillicons.dev/icons?i=php,c,cpp,js,python,java,html,css,tailwind,symfony,mysql,git,github,vscode,linux)
 
 I am strengthening my technical foundations before specializing. My current priority is to understand how applications work, then deepen my Linux and networking knowledge before moving further into cloud, DevOps, and security.
 
@@ -39,80 +39,8 @@ The sections below deliberately separate what I currently know, what I am learni
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
-## Current Focus
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>01 · Understand</h3>
-      <p>Study Frappe HRMS architecture, application structure, data flow, and the relationships between major components.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>02 · Strengthen</h3>
-      <p>Practice Linux fundamentals and improve my understanding of systems, permissions, processes, and networking.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>03 · Document</h3>
-      <p>Turn lessons into notes, small labs, and reproducible projects that show genuine progress over time.</p>
-    </td>
-  </tr>
-</table>
-
-I am keeping the AWS-versus-Azure decision open until I better understand the technology stack and practical needs at Target Tunisia.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
-
-## Learning Roadmap
-
-<div align="center">
-
-`Application Understanding` → `Linux & Networking` → `Cloud & DevOps` → `Security` → `Cloud Security & DevSecOps`
-
-</div>
-
-| Stage | Focus | Current position |
-|:--:|---|:--:|
-| 01 | Application architecture and behavior | 🟢 Active |
-| 02 | Linux and networking foundations | 🟢 Active |
-| 03 | Cloud and DevOps fundamentals | 🟡 Exploring |
-| 04 | Security fundamentals and secure practices | 🟡 Exploring |
-| 05 | Cloud Security and DevSecOps | 🔵 Long-term direction |
-
-> The roadmap represents learning priority—not completed expertise.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
-
-## Technologies & Knowledge
-
-### Current foundations
-
-![Ubuntu basic knowledge](https://img.shields.io/badge/Ubuntu-Basic%20Knowledge-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Linux foundations](https://img.shields.io/badge/Linux-Foundations-FCC624?style=flat-square&logo=linux&logoColor=111827)
-![Networking fundamentals](https://img.shields.io/badge/Networking-Fundamentals-0891B2?style=flat-square)
-![Academic development experience](https://img.shields.io/badge/Development-Academic%20Experience-0E7490?style=flat-square)
-![GitHub Student Pack](https://img.shields.io/badge/GitHub-Student%20Pack-181717?style=flat-square&logo=github&logoColor=white)
-
-<!-- Add only languages and tools you have genuinely used:
-![LANGUAGE_OR_TOOL](BADGE_URL)
--->
-
-### Currently learning
-
-![Frappe HRMS architecture](https://img.shields.io/badge/Frappe%20HRMS-Architecture%20Study-0089FF?style=flat-square)
-![Cloud fundamentals](https://img.shields.io/badge/Cloud-Fundamentals-0284C7?style=flat-square)
-![DevOps fundamentals](https://img.shields.io/badge/DevOps-Fundamentals-0F766E?style=flat-square)
-![Security fundamentals](https://img.shields.io/badge/Cybersecurity-Fundamentals-0D9488?style=flat-square)
-
-### Planned next
-
-![Docker not started](https://img.shields.io/badge/Docker-Not%20Started%20Yet-64748B?style=flat-square&logo=docker&logoColor=white)
-![Cloud provider decision pending](https://img.shields.io/badge/AWS%20or%20Azure-Decision%20Pending-64748B?style=flat-square)
-![Cloud Security direction](https://img.shields.io/badge/Cloud%20Security-Long--Term%20Direction-475569?style=flat-square)
-![DevSecOps direction](https://img.shields.io/badge/DevSecOps-Long--Term%20Direction-475569?style=flat-square)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
-
-## Projects & Learning Labs
+## Featured Projects
 
 These spaces are reserved for real, documented work. Each entry should describe what was actually built, practiced, or learned.
 
