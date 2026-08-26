@@ -30,7 +30,7 @@ education: Entering 4A at ESPRIT
 current_context: Internship at Target Tunisia
 direction: Application understanding → Cloud Security and DevSecOps
 ```
-![My Skills](https://skillicons.dev/icons?i=php,js,python,java,cpp,html,css,bootstrap,tailwind,symfony,mysql,git,github,vscode,maven,npm)
+![My Skills](https://skillicons.dev/icons?i=php,c,c++,js,python,java,cpp,html,css,tailwind,symfony,mysql,git,github,vscode,maven,linux,cisco)
 
 I am strengthening my technical foundations before specializing. My current priority is to understand how applications work, then deepen my Linux and networking knowledge before moving further into cloud, DevOps, and security.
 
