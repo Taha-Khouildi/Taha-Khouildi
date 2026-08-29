@@ -26,10 +26,9 @@
 
 ```yaml
 name: Taha Khouildi
-role: 4th Year Computer Science Engineering Student @ ESPRIT
-focus: Cybersecurity · Cloud Fundamentals · Linux & Networking · DevOps
-recently: Internship @ Target Tunisia — studying Frappe HRMS architecture
-fun_fact: I like understanding how systems work before figuring out how to secure them
+education: Entering 4A at ESPRIT
+current_context: Internship at Target Tunisia
+direction: Application understanding → Cloud Security and DevSecOps
 ```
 ![My Skills](https://skillicons.dev/icons?i=php,c,cpp,js,python,java,html,css,tailwind,symfony,mysql,git,github,vscode,linux)
 
@@ -45,7 +44,7 @@ The sections below deliberately separate what I currently know, what I am learni
 
 <div align="center">
 
-<sub>● 1/4 — scroll down for the next project ●</sub>
+<sub>● 1/5 — scroll down for the next project ●</sub>
 
 <br /><br />
 
@@ -92,7 +91,7 @@ The sections below deliberately separate what I currently know, what I am learni
 
 <div align="center">
 
-<sub>● 2/4 — scroll down for the next project ●</sub>
+<sub>● 2/5 — scroll down for the next project ●</sub>
 
 <br /><br />
 
@@ -140,7 +139,7 @@ The sections below deliberately separate what I currently know, what I am learni
 
 <div align="center">
 
-<sub>● 3/4 — scroll down for the next project ●</sub>
+<sub>● 3/5 — scroll down for the next project ●</sub>
 
 <br /><br />
 
@@ -187,7 +186,7 @@ The sections below deliberately separate what I currently know, what I am learni
 
 <div align="center">
 
-<sub>● 4/4 — end of featured projects ●</sub>
+<sub>● 4/5 — scroll down for the next project ●</sub>
 
 <br /><br />
 
@@ -223,6 +222,53 @@ The sections below deliberately separate what I currently know, what I am learni
 </p>
 
 <a href="https://github.com/Taha-Khouildi/1A-2d-game-Esprit-Tunisnap"><strong>→ View Repository</strong></a>
+
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:23D3EE&height=2" width="100%" alt="Project divider" />
+
+<br />
+
+<div align="center">
+
+<sub>● 5/5 — end of featured projects ●</sub>
+
+<br /><br />
+
+<a href="https://github.com/Taha-Khouildi/frappe-leave-rules">
+  <img
+    src="https://raw.githubusercontent.com/Taha-Khouildi/frappe-leave-rules/main/docs/screenshots/advance-notice-rule.png"
+    width="88%"
+    alt="Configurable leave advance-notice rule in Frappe HRMS"
+  />
+</a>
+
+<h3>Leave Rules — Frappe HRMS Extension</h3>
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/Taha-Khouildi/frappe-leave-rules?style=flat-square&amp;label=updated&amp;color=23D3EE&amp;labelColor=071A2B" alt="Last repository update" />
+  <img src="https://img.shields.io/github/stars/Taha-Khouildi/frappe-leave-rules?style=flat-square&amp;label=stars&amp;color=FACC15&amp;labelColor=071A2B" alt="Repository stars" />
+  <img src="https://img.shields.io/github/repo-size/Taha-Khouildi/frappe-leave-rules?style=flat-square&amp;label=repo%20size&amp;color=8B5CF6&amp;labelColor=071A2B" alt="Repository size" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-071A2B?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Frappe%20v17-071A2B?style=flat-square&amp;logo=frappe&amp;logoColor=0089FF" alt="Frappe version 17" />
+  <img src="https://img.shields.io/badge/HRMS%20v17-071A2B?style=flat-square" alt="Frappe HRMS version 17" />
+  <img src="https://img.shields.io/badge/ERPNext%20v17-071A2B?style=flat-square&amp;logo=erpnext&amp;logoColor=0089FF" alt="ERPNext version 17" />
+  <img src="https://img.shields.io/badge/Docker-071A2B?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Automated%20Tests-071A2B?style=flat-square&amp;logo=pytest&amp;logoColor=0A9EDC" alt="Automated tests" />
+</p>
+
+<p>
+  Custom Frappe HRMS extension that enforces configurable advance-notice periods for each Leave Type,
+  with optional company-specific overrides and a global fallback. It integrates through a server-side
+  document-event hook, preserves core HRMS behavior, prevents conflicting rules, and includes automated tests.
+</p>
+
+<a href="https://github.com/Taha-Khouildi/frappe-leave-rules"><strong>→ View Repository</strong></a>
 
 </div>
 
