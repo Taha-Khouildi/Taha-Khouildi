@@ -274,17 +274,6 @@ The sections below deliberately separate what I currently know, what I am learni
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taha-Khouildi&theme=github_dark&title_color=23D3EE&text_color=B8E7F2&bg_color=071A2B&border_color=071A2B&icon_color=8B5CF6&chart_color=23D3EE" width="42%" alt="GitHub statistics for Taha-Khouildi" /> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Taha-Khouildi&layout=compact&langs_count=6&hide_border=true&bg_color=071A2B&title_color=23D3EE&text_color=B8E7F2&card_width=340" width="42%" alt="Most used languages in the public repositories of Taha-Khouildi, including percentages" />
-
-</div>
-
-<sub>Language statistics are generated from public repository code and do not represent proficiency.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:23D3EE,100:8B5CF6&height=3" width="100%" alt="Section divider" />
 
 ## 📬 Let's Connect
 
